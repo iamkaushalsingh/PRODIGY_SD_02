@@ -18,15 +18,15 @@ This C++ program is a basic number guessing game where the user tries to guess a
 ## How to Run
 
 1. **Compile the Program:**
-    Open a terminal or command prompt and navigate to the directory containing the `guessing_game.cpp` file. Then, compile the program using a C++ compiler. For example:
+    Open a terminal or command prompt and navigate to the directory containing the `guess_game.cpp` file. Then, compile the program using a C++ compiler. For example:
     ```sh
-    g++ -o guessing_game guessing_game.cpp
+    g++ -o guess_game guess_game.cpp
     ```
 
 2. **Run the Program:**
     After compiling the program, you can run it by executing the following command:
     ```sh
-    ./guessing_game
+    ./guess_game
     ```
 
 3. **Play the Game:**
